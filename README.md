@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Otavio Augusto
-- 👀 I’m interested in Gaming Dev/Testes
+- 👀 I’m interested in Infrastructure/Dev/Tests
 - 🌱 I’m currently learning ASD in FATEC Zona Leste - Brazil, SP
-- 📫 How to reach me otavio.oliveira65@hotmail.com | luuppuu - Discord
+- 📫 How to reach me otavio.oliveira65@hotmail.com
